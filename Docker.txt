@@ -1,0 +1,4 @@
+Docker is an open source tool which automates the deployment of application in the software containers. 
+So basically it is a tool that packages the application and all its dependencies in a virtual container so that it can be run on any linux system or distribution.
+
+Docker Hub is a repository in which there are large number of images that you can download and use to build containers.
